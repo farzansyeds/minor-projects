@@ -1,0 +1,16 @@
+# Large datasets and compressed files
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+data/
+
+# Python & Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+.env
