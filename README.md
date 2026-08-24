@@ -1,6 +1,6 @@
 # Minor Projects Collection 🚀
 
-A curated showcase of minor projects, prototypes, and practical implementations covering Deep Learning, Natural Language Processing, and Machine Learning.
+A curated showcase of minor projects, prototypes, and practical implementations covering Deep Learning, Natural Language Processing, and Reinforcement Learning.
 
 ---
 
@@ -9,6 +9,7 @@ A curated showcase of minor projects, prototypes, and practical implementations 
 | Project Name | Domain / Tech Stack | Key Concepts | Subfolder |
 | :--- | :--- | :--- | :--- |
 | **IMDb Sentiment Analysis** | NLP, PyTorch, NLTK | RNNs, TF-IDF, Sequence Modeling | [`/imdb-sentiment-analysis-rnn`](./imdb-sentiment-analysis-rnn) |
+| **Cliff Walking (RL)** | Reinforcement Learning, Gymnasium | Q-Learning vs SARSA, On/Off Policy TD Control | [`/cliff-walking`](./cliff-walking) |
 
 ---
 
